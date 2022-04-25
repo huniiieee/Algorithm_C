@@ -39,5 +39,14 @@
     <ClCompile Include="circlequeue.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="20172255_이세훈_midterm_stack.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20172255_이세훈_midterm_queue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="queue_linkedlist.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -38,7 +38,7 @@ int isfull(arraysize* stack)
 void push(arraysize* stack, element item)
 {
 	if (isfull(stack))
-		return 0;
+		return;
 	else
 	{
 		stack->topindex++;
